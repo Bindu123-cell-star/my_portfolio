@@ -1,6 +1,7 @@
 // src/App.jsx
 import React from 'react'
 import Home from './components/Home'
+import Home from './components/Home.jsx';
 import About from './components/About'
 import Projects from './components/Projects'
 import Experience from './components/Experience'
